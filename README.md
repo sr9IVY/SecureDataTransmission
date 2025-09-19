@@ -10,3 +10,4 @@ Signs and verifies data using RSA digital signatures
 Role-based access control (admin/user)
 https://github.com/sr9ivy/SecureDataTransmission.git
 Launch code spaces by clicking the green Code icon and select the + sign to run from cloud
+In terrminal type python main.py
