@@ -1,6 +1,6 @@
 # SecureDataTransmission
 
-This is Python application demonstrating secure data handling using hashing, encryption, and digital signatures. This site utlizies the key cybersecurity principles including the CIA triad, entropy in cryptography, and secure authentication.
+This is a Python application demonstrating secure data handling using hashing, encryption, and digital signatures. This site utlizies the key cybersecurity principles including the CIA triad, entropy in cryptography, and secure authentication.
 
 Accepts structured user input (e.g., name, address, contact info)
 Hashes input using SHA-256 to ensure integrity
