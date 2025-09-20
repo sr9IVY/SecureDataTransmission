@@ -1,1 +1,2 @@
-First Name: John Middle Initial: A Last Name: Doe Street Address: 123 Maple St Apartment: Apt 4B City: Warsaw State: IN Zip Code: 46580 Email: john.doe@email.com
+First Name: John Middle Initial: A Last Name: Doe Street Address: 123 Maple St Apartment: 4 City: Warsaw State: IN Zip Code: 46580 Email: john.doe@email.com Phone +1 574-111-2222
+
