@@ -1,4 +1,4 @@
-#Main.py the program that launches the project
+# Main.py — the program that launches the project
 from utils import hashing, encryption, signature, auth
 from config import keys
 
@@ -19,6 +19,13 @@ def main():
         print("Access denied.")
         return
 
+    if user["role"] == "admin":
+        print("\n🔐 Admin access granted.")
+        print("You may view logs, manage users, or perform system-level tasks.")
+        # Placeholder for future admin functionality
+        return
+
+    # Regular user flow
     message = get_user_input()
     original_hash = hashing.sha256_hash(message)
 
