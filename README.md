@@ -14,4 +14,6 @@ In terrminal type pip install -r requirements.txt
 In terrminal type python main.py
 Enter the data as requested in the prompt for the two accounts:
 user user123                                    admin admin123
-The Successful Run Recording of the program is shown in the recodingOffTerminal
+The Successful Run Recording of the program is shown in the recodingOfAppRun directory. 
+Click this file and click the word icon to open the Terminal output
+ of the run of the program
