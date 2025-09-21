@@ -12,3 +12,6 @@ https://github.com/sr9ivy/SecureDataTransmission.git
 Launch code spaces by clicking the green Code icon and select the + sign to run from cloud
 In terrminal type pip install -r requirements.txt
 In terrminal type python main.py
+Enter the data as requested in the prompt for the two accounts:
+user user123                                    admin admin123
+The Successful Run Recording of the program is shown in the recodingOffTerminal
